@@ -3,7 +3,7 @@ A splashscreen for react-native, hide when application loaded
 
 ## Installation
 ```sh
-npm install @remobile/react-native-splashscreen --save
+npm install @zss0512/react-native-splashscreen --save
 ```
 ### Installation (iOS)
 * Drag RCTSplashScreen.xcodeproj to your project on Xcode.
